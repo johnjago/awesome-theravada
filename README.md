@@ -4,7 +4,7 @@
 
 > A curated list of Theravada Buddhist teachings.
 
-Looking to [learn the Pali language](https://github.com/unbinding-org/awesome-pali)?
+Do you want to [learn the Pali language](https://github.com/unbinding-org/awesome-pali)?
 
 ## Contents
 - [Books](#books)
@@ -12,6 +12,10 @@ Looking to [learn the Pali language](https://github.com/unbinding-org/awesome-pa
 - [Dhamma Talks](#dhamma-talks)
 - [Monasteries](#monasteries)
 - [Videos](#videos)
+
+## Academic
+
+- [A Systematic Study of the Majjhima Nikaya](http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html) - Lectures on the life of the Buddha, ethics, meditation, and wisdom.
 
 ## Books
 
