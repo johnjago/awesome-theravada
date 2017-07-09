@@ -7,10 +7,12 @@
 Do you want to [learn the Pali language](https://github.com/unbinding-org/awesome-pali)?
 
 ## Contents
+- [Academic](#academic)
 - [Books](#books)
 - [License](#license)
 - [Dhamma Talks](#dhamma-talks)
 - [Monasteries](#monasteries)
+- [Organizations](#organizations)
 - [Videos](#videos)
 
 ## Academic
@@ -22,6 +24,11 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 ## Dhamma Talks
 
 ## Monasteries
+
+## Organizations
+
+- [Forest Sangha](https://forestsangha.org/) - Home of the international monasteries in the Thai Forest Tradition of Ajahn Chah.
+- [Sirimangalo International](https://www.sirimangalo.org/) - Teachings on meditation and Buddhism in audio, video, and printed format. It is also a meditation centre located in Hamilton, Ontario.
 
 ## Videos
 
