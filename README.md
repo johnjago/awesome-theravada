@@ -24,6 +24,11 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 ## Books
 
+- [How to Meditate](https://www.sirimangalo.org/text/how-to-meditate/) - Guide on how to meditate, available in various formats and languages.
+- [Lessons in Practical Buddhism](https://www.sirimangalo.org/text/lessons-in-practical-buddhism/) - Practical teachings to help people live in peace and happiness.
+- [The Collected Teachings of Ajahn Chah](https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English) - Single volume containing many of Ajahn Chah's talks that convey the teachings in a direct, simple, yet profound manner.
+- [The Four Noble Truths](https://forestsangha.org/teachings/books/the-four-noble-truths?language=English) - Booklet by Ajahn Sumedho that serves as an introduction to the Four Noble Truths and Noble Eightfold Path.
+
 ## Dhamma Talks
 
 - [dhammatalks.org](http://www.dhammatalks.org) - English translations of suttas, audio talks, and books by Thanissaro Bhikkhu.
