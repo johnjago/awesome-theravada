@@ -35,6 +35,9 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 ## Monasteries
 
+- [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Forest monastery established by the Venerable Ajahn Chah and located in the province of Ubon Rachathani.
+- [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Buddhist monastery in Northeast Thailand where English-speakers can practice the simple lifestyle as taught by the Buddha.
+
 ## Organizations
 
 - [Forest Sangha](https://forestsangha.org/) - Home of the international monasteries in the Thai Forest Tradition of Ajahn Chah.
