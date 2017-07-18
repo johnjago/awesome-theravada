@@ -10,12 +10,13 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 - [Academic](#academic)
 - [Books](#books)
-- [License](#license)
 - [Dhamma Talks](#dhamma-talks)
+- [Forums](#forums)
 - [Monasteries](#monasteries)
 - [Organizations](#organizations)
 - [Suttas](#suttas)
 - [Videos](#videos)
+- [License](#license)
 
 ## Academic
 
@@ -32,6 +33,12 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 ## Dhamma Talks
 
 - [dhammatalks.org](http://www.dhammatalks.org) - English translations of suttas, audio talks, and books by Thanissaro Bhikkhu.
+
+## Forums
+
+- [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
+- [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - Ask and learn from the members of Dhammaloka City Centre in Australia.
+- [/r/theravada/](https://www.reddit.com/r/theravada/) - Subreddit where anyone can discuss, ask questions, and post Theravada teachings.
 
 ## Monasteries
 
