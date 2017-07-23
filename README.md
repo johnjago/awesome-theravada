@@ -52,6 +52,15 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 ## Suttas
 
+### Individual Suttas
+- [Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion](http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) - The Buddha's first discourse.
+- [Samaññaphala Sutta: The Fruits of the Contemplative Life](http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html) - Comprehensive portrait of the Buddhist path of training, illustrating each stage of the training with vivid similes.
+- [Kasi Bharadvaja Sutta: To the Plowing Bharadvaja](http://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.011.than.html) - The Buddha explains how he plows, sows, and eats like a farmer.
+- [Nidhi Kanda: The Reserve Fund](http://www.accesstoinsight.org/tipitaka/kn/khp/khp.1-9.than.html#khp-8) - Reminder that a fund of virtue and restraint will always be safe, while a material fund can be lost.
+- [Tuvataka Sutta: Quickly](http://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.14.than.html) - How a monastic should act, with parts that are applicable to laypeople as well.
+
+### Resources
+
 - [Access to Insight](http://www.accesstoinsight.org/) - Translations of over one thousand suttas from the Pali Canon.
 - [Dhammapada](http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html) - Short verses that summarize the essential principles of the Buddha's teachings.
 - [SuttaCentral](https://suttacentral.net/) - Early Buddhist texts, translations, and parallels in many languages.
