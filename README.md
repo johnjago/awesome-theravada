@@ -32,7 +32,11 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 ## Dhamma Talks
 
+### Audio
+- [BuddhaNet](http://www.buddhanet.net/audio-talks.htm) - Sample of talks from teachers of several traditions, both lay and ordained.
+- [dhamma.audio](https://dhamma.audio/) - Library of teachings from a wide variety of places, sortable by teacher and collection.
 - [dhammatalks.org](http://www.dhammatalks.org) - English translations of suttas, audio talks, and books by Thanissaro Bhikkhu.
+- [Tisarana](https://tisarana.ca/teachings-audio/) - Recorded talks from Tisarana Buddhist Monastery in Canada.
 
 ## Forums
 
