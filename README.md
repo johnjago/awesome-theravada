@@ -33,6 +33,7 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 ## Dhamma Talks
 
 ### Audio
+
 - [BuddhaNet](http://www.buddhanet.net/audio-talks.htm) - Sample of talks from teachers of several traditions, both lay and ordained.
 - [dhamma.audio](https://dhamma.audio/) - Library of teachings from a wide variety of places, sortable by teacher and collection.
 - [dhammatalks.org](http://www.dhammatalks.org) - English translations of suttas, audio talks, and books by Thanissaro Bhikkhu.
@@ -73,6 +74,11 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 - [Buddhist Society of Western Australia](https://bswa.org/teachings/) - Dhamma talks by various monastics, including Ajahn Brahm.
 - [SI Video Wiki](https://video.sirimangalo.org/) - Categorized selection of videos by Yuttadhammo Bhikkhu.
+
+### YouTube Channels
+
+- [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - Talks, lectures, and educational materials from the London Buddhist Vihara.
+- [Portland Friends of the Dhamma](https://www.youtube.com/channel/UCHLz6Y2gbO2njffgLsV6FrA) - Buddhist center in the Thai Forest tradition of Ajahn Chah that hosts talks from visiting monastics.
 
 ## License
 
