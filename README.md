@@ -58,6 +58,7 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 ## Suttas
 
 ### Individual Suttas
+
 - [Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion](http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) - The Buddha's first discourse.
 - [Samaññaphala Sutta: The Fruits of the Contemplative Life](http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html) - Comprehensive portrait of the Buddhist path of training, illustrating each stage of the training with vivid similes.
 - [Kasi Bharadvaja Sutta: To the Plowing Bharadvaja](http://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.011.than.html) - The Buddha explains how he plows, sows, and eats like a farmer.
@@ -77,7 +78,9 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 ### YouTube Channels
 
+- [Dhamma in English](https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos) - Live talks and Q&A with lay visitors from around the world. (English)
 - [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - Talks, lectures, and educational materials from the London Buddhist Vihara.
+- [PhraSuchart Live](https://www.youtube.com/channel/UCHtDbJ3n3aURo0yjyD8kcNA/videos) - Live talks and Q&A with lay visitors from around the world. (Thai - ไทย)
 - [Portland Friends of the Dhamma](https://www.youtube.com/channel/UCHLz6Y2gbO2njffgLsV6FrA) - Buddhist center in the Thai Forest tradition of Ajahn Chah that hosts talks from visiting monastics.
 
 ## License
