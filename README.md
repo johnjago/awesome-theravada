@@ -78,6 +78,8 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 ### YouTube Channels
 
+- [1983dukkha](https://www.youtube.com/user/1983dukkha/videos) - Audio recordings of talks from well-known Buddhist monks and nuns.
+- [Abhayagiri Buddhist Monastery](https://www.youtube.com/channel/UCFAuQ5fmYYVv5_Dim0EQpVA/videos) - Live streams, talks, and events at Abhayagiri.
 - [Bodhisaddha Forest Monastery](https://www.youtube.com/channel/UCCNZfA9m6Q8DZ7V192QMu1Q) - Life at a forest monastery.
 - [Dhamma in English](https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos) - Live talks and Q&A with lay visitors from around the world. (English)
 - [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - Talks, lectures, and educational materials from the London Buddhist Vihara.
