@@ -76,11 +76,16 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 - [Buddhist Society of Western Australia](https://bswa.org/teachings/) - Dhamma talks by various monastics, including Ajahn Brahm.
 - [SI Video Wiki](https://video.sirimangalo.org/) - Categorized selection of videos by Yuttadhammo Bhikkhu.
 
+### Individual Videos
+
+- [Dana en Wat Pah Nanachat](https://www.youtube.com/watch?v=Y1bTUC7QUbI) - A walk through of daily life at Wat Pah Nanachat, focusing on the topic of generosity and the role it plays in Buddhist life. (Español with English subtitles)
+
 ### YouTube Channels
 
 - [1983dukkha](https://www.youtube.com/user/1983dukkha/videos) - Audio recordings of talks from well-known Buddhist monks and nuns.
 - [Abhayagiri Buddhist Monastery](https://www.youtube.com/channel/UCFAuQ5fmYYVv5_Dim0EQpVA/videos) - Live streams, talks, and events at Abhayagiri.
 - [Bodhisaddha Forest Monastery](https://www.youtube.com/channel/UCCNZfA9m6Q8DZ7V192QMu1Q) - Life at a forest monastery.
+- [Buddhist Fellowship](https://www.youtube.com/user/buddhistfellowshipsg/videos) - Videos from the non-sectarian Buddhist organisation of the same name.
 - [Dhamma in English](https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos) - Live talks and Q&A with lay visitors from around the world. (English)
 - [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - Talks, lectures, and educational materials from the London Buddhist Vihara.
 - [PhraSuchart Live](https://www.youtube.com/channel/UCHtDbJ3n3aURo0yjyD8kcNA/videos) - Live talks and Q&A with lay visitors from around the world. (Thai - ไทย)
