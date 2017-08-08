@@ -88,10 +88,12 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 - [Buddhist Fellowship](https://www.youtube.com/user/buddhistfellowshipsg/videos) - Videos from the non-sectarian Buddhist organisation of the same name.
 - [Dhamma in English](https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos) - Live talks and Q&A with lay visitors from around the world. (English)
 - [Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UC6FSq_ptJ-I6aTHT-XA_e0Q) - Longer audio talks from Thanissaro Bhikkhu.
+- [Dhammanet](https://www.youtube.com/user/dhammanet/videos) - Inspiring and enlightening discourses by respected scholars, Buddhist monks and philosophers.
 - [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - Talks, lectures, and educational materials from the London Buddhist Vihara.
 - [PhraSuchart Live](https://www.youtube.com/channel/UCHtDbJ3n3aURo0yjyD8kcNA/videos) - Live talks and Q&A with lay visitors from around the world. (Thai - ไทย)
 - [Portland Friends of the Dhamma](https://www.youtube.com/channel/UCHLz6Y2gbO2njffgLsV6FrA) - Buddhist center in the Thai Forest tradition of Ajahn Chah that hosts talks from visiting monastics.
 - [Short Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UCQRkIum1cnPNI5QZ0XtIMWw) - Snippets of daily talks given by Thanissaro Bhikkhu at Metta Forest Monastery.
+- [StudentofthePath](https://www.youtube.com/user/StudentofthePath/videos) - American born Buddhist monastic's journey into homelessness.
 - [The Noble Path](https://www.youtube.com/user/Dhammavat/videos) - Home of several documentaries on Buddhism in the late 1900s.
 
 ## License
