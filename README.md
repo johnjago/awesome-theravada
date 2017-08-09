@@ -84,6 +84,7 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 - [1983dukkha](https://www.youtube.com/user/1983dukkha/videos) - Audio recordings of talks from well-known Buddhist monks and nuns.
 - [Abhayagiri Buddhist Monastery](https://www.youtube.com/channel/UCFAuQ5fmYYVv5_Dim0EQpVA/videos) - Live streams, talks, and events at Abhayagiri.
+- [AjahnBrahmRetreats](https://www.youtube.com/user/AjahnBrahmRetreats) - Recordings of meditation retreats with Ajahn Brahm at Jhana Grove Meditation Retreat Centre.
 - [Bodhisaddha Forest Monastery](https://www.youtube.com/channel/UCCNZfA9m6Q8DZ7V192QMu1Q) - Life at a forest monastery.
 - [Buddhist Fellowship](https://www.youtube.com/user/buddhistfellowshipsg/videos) - Videos from the non-sectarian Buddhist organisation of the same name.
 - [Dhamma in English](https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos) - Live talks and Q&A with lay visitors from around the world. (English)
@@ -95,6 +96,7 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 - [Short Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UCQRkIum1cnPNI5QZ0XtIMWw) - Snippets of daily talks given by Thanissaro Bhikkhu at Metta Forest Monastery.
 - [StudentofthePath](https://www.youtube.com/user/StudentofthePath/videos) - American born Buddhist monastic's journey into homelessness.
 - [The Noble Path](https://www.youtube.com/user/Dhammavat/videos) - Home of several documentaries on Buddhism in the late 1900s.
+- [Wat Marp Jan (วัดมาบจันทร์)](https://www.youtube.com/user/watmarpjan) - Videos of events at a Thai Forest monastery established by Ajahn Anan Akiñcano in the tradition of Ajahn Chah.
 
 ## License
 
