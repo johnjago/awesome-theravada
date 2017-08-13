@@ -43,10 +43,13 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 - [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
 - [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - Ask and learn from the members of Dhammaloka City Centre in Australia.
-- [/r/theravada/](https://www.reddit.com/r/theravada/) - Subreddit where anyone can discuss, ask questions, and post Theravada teachings.
+- [/r/thaiforest/](https://www.reddit.com/r/thaiforest/) - Subreddit for the Thai Forest Tradition.
+- [/r/theravada/](https://www.reddit.com/r/theravada/) - Subreddit where anyone can discuss, ask questions, and post teachings.
 
 ## Monasteries
 
+- [Abhayagiri](https://www.abhayagiri.org) - Monastery in Redwood Valley, California that provides an environment in which individuals and families are given the opportunity to be in contact with the principles of the Buddha's teachings.
+- [Temple Forest Monastery](http://forestmonastery.org/) - In the small town of Temple, New Hampshire, this monastery offers a balance of wilderness, seclusion, and accessibility.
 - [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Forest monastery established by the Venerable Ajahn Chah and located in the province of Ubon Rachathani.
 - [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Buddhist monastery in Northeast Thailand where English-speakers can practice the simple lifestyle as taught by the Buddha.
 
