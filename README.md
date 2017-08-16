@@ -9,6 +9,7 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 ## Contents
 
 - [Academic](#academic)
+- [Blogs](#blogs)
 - [Books](#books)
 - [Dhamma Talks](#dhamma-talks)
 - [Forums](#forums)
@@ -25,6 +26,7 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 ## Blogs
 
+- [Bosque Theravada](https://www.bosquetheravada.org/) - Web budista dedicada al Canon Pali, el budismo temprano, y la Tradición de Ajahn Chah.
 - [Dhamma Musings](https://sdhammika.blogspot.com/) - Shravasti Dhammika's musings and travels.
 - [Sujato’s Blog](https://sujato.wordpress.com/) - Opinions on Buddhism and related issues in a contemporary context.
 - [Reflections: Ajahn Sucitto](https://sucitto.blogspot.com/) - Personal blog of an experienced Buddhist monk.
@@ -77,7 +79,9 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 ### Resources
 
 - [Access to Insight](http://www.accesstoinsight.org/) - Translations of over one thousand suttas from the Pali Canon.
+- [dhammadāna](http://dhammadana.org/) - Learn about the Buddha's original teachings in French, English, Italian, Burmese, and Japanese.
 - [Dhammapada](http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html) - Short verses that summarize the essential principles of the Buddha's teachings.
+- [Sādhu!](https://www.dhamma.ru/sadhu/) - World directory of physical locations and websites.
 - [SuttaCentral](https://suttacentral.net/) - Early Buddhist texts, translations, and parallels in many languages.
 
 ## Videos
