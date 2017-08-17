@@ -56,10 +56,12 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 
 ## Monasteries
 
-- [Abhayagiri](https://www.abhayagiri.org) - Monastery in Redwood Valley, California that provides an environment in which individuals and families are given the opportunity to be in contact with the principles of the Buddha's teachings.
-- [Temple Forest Monastery](http://forestmonastery.org/) - In the small town of Temple, New Hampshire, this monastery offers a balance of wilderness, seclusion, and accessibility.
-- [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Forest monastery established by the Venerable Ajahn Chah and located in the province of Ubon Rachathani.
-- [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Buddhist monastery in Northeast Thailand where English-speakers can practice the simple lifestyle as taught by the Buddha.
+- [Abhayagiri](https://www.abhayagiri.org) - Redwood Valley, California - Environment in which individuals and families are given the opportunity to be in contact with the principles of the Buddha's teachings.
+- [Amaravati](http://www.amaravati.org/) - Hertfordshire, England - Place of practice for monks and nuns in the Forest Tradition.
+- [Aruna Ratanagiri](https://ratanagiri.org.uk/) - Northumberland, England - Forest Tradition monastery headed by abbot Ajahn Munindo.
+- [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.
+- [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Ubon Ratchathani, Thailand - Forest monastery established by the venerable Ajahn Chah.
+- [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Ubon Ratchathani, Thailand - Where English-speakers can practice the simple lifestyle as taught by the Buddha.
 
 ## Organizations
 
@@ -92,6 +94,7 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 ### Individual Videos
 
 - [Dana en Wat Pah Nanachat](https://www.youtube.com/watch?v=Y1bTUC7QUbI) - A walk through of daily life at Wat Pah Nanachat, focusing on the topic of generosity and the role it plays in Buddhist life. (Español with English subtitles)
+- [The Mindful Way](https://www.youtube.com/watch?v=Anf1yhX9VQo) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
 
 ### YouTube Channels
 
@@ -109,11 +112,11 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 - [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - Talks, lectures, and educational materials from the London Buddhist Vihara.
 - [PhraSuchart Live](https://www.youtube.com/channel/UCHtDbJ3n3aURo0yjyD8kcNA/videos) - Live talks and Q&A with lay visitors from around the world. (Thai - ไทย)
 - [Portland Friends of the Dhamma](https://www.youtube.com/channel/UCHLz6Y2gbO2njffgLsV6FrA) - Buddhist center in the Thai Forest tradition of Ajahn Chah that hosts talks from visiting monastics.
-- [Short Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UCQRkIum1cnPNI5QZ0XtIMWw) - Snippets of daily talks given by Thanissaro Bhikkhu at Metta Forest Monastery.
+- [Short Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UCQRkIum1cnPNI5QZ0XtIMWw) - Daily talks given by Thanissaro Bhikkhu at Metta Forest Monastery.
 - [StudentofthePath](https://www.youtube.com/user/StudentofthePath/videos) - American born Buddhist monastic's journey into homelessness.
-- [The Noble Path](https://www.youtube.com/user/Dhammavat/videos) - Home of several documentaries on Buddhism in the late 1900s.
+- [The Noble Path](https://www.youtube.com/user/Dhammavat/videos) - Several documentaries on Buddhism in the late 1900s.
 - [urbanbuddhistmonk](https://www.youtube.com/user/westendbuddhistmedia) - Talks from Bhante Saranapala of the West End Buddhist Temple and Meditation Center.
-- [Wat Marp Jan (วัดมาบจันทร์)](https://www.youtube.com/user/watmarpjan) - Videos of events at a Thai Forest monastery established by Ajahn Anan Akiñcano in the tradition of Ajahn Chah.
+- [Wat Marp Jan (วัดมาบจันทร์)](https://www.youtube.com/user/watmarpjan) - Events at a Thai Forest monastery established by Ajahn Anan Akiñcano.
 - [watsanfran](https://www.youtube.com/user/watsanfran/videos) - Classes and daily sermons in Thai and English.
 - [Yuttadhammo Bhikkhu](https://www.youtube.com/user/yuttadhammo/videos) - Live broadcasts almost every day on the topics of meditation, Buddhism, and the monastic life.
 
