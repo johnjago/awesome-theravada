@@ -1,10 +1,12 @@
 # Awesome Theravada [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg" alt="Dharmachakra" align="right" width="110">](https://en.wikipedia.org/wiki/Theravada)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg" alt="Dharmachakra" align="right" width="170">](https://en.wikipedia.org/wiki/Theravada)
 
 > A curated list of Theravada Buddhist teachings.
 
-Do you want to [learn the Pali language](https://github.com/unbinding-org/awesome-pali)?
+Theravada is a branch of Buddhism that draws its doctrine from the Pali canon, one of the oldest surviving records of the Buddha's teachings.
+
+Are you looking to [learn the Pali language](https://github.com/unbinding-org/awesome-pali)?
 
 ## Contents
 
@@ -59,9 +61,12 @@ Do you want to [learn the Pali language](https://github.com/unbinding-org/awesom
 - [Abhayagiri](https://www.abhayagiri.org) - Redwood Valley, California - Environment in which individuals and families are given the opportunity to be in contact with the principles of the Buddha's teachings.
 - [Amaravati](http://www.amaravati.org/) - Hertfordshire, England - Place of practice for monks and nuns in the Forest Tradition.
 - [Aruna Ratanagiri](https://ratanagiri.org.uk/) - Northumberland, England - Forest Tradition monastery headed by abbot Ajahn Munindo.
+- [Atammayatarama Buddhist Monastery](http://www.atamma.org/) - Woodinville, Washington - Theravada monastery that offers free services, books, and meditation sessions.
+- [Pacific Hermitage](http://pacifichermitage.org/) - White Salmon, Washington - Small monastery where monks can devote time to study and meditation.
 - [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.
 - [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Ubon Ratchathani, Thailand - Forest monastery established by the venerable Ajahn Chah.
 - [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Ubon Ratchathani, Thailand - Where English-speakers can practice the simple lifestyle as taught by the Buddha.
+- [Wat San Fran](http://watsanfran.org/) - San Francisco, California - Temple for learning, celebrating Buddhist holidays, as well as experiencing Thai culture.
 
 ## Organizations
 
