@@ -32,6 +32,7 @@ Are you looking to [learn the Pali language](https://github.com/unbinding-org/aw
 - [Dhamma Musings](https://sdhammika.blogspot.com/) - Shravasti Dhammika's musings and travels.
 - [Sujato’s Blog](https://sujato.wordpress.com/) - Opinions on Buddhism and related issues in a contemporary context.
 - [Reflections: Ajahn Sucitto](https://sucitto.blogspot.com/) - Personal blog of an experienced Buddhist monk.
+- [Universität Hamburg: Prof. Bhikkhu Analayo](https://www.buddhismuskunde.uni-hamburg.de/en/personen/analayo.html) - Author of several books and papers on Theravada topics.
 
 ## Books
 
@@ -62,6 +63,8 @@ Are you looking to [learn the Pali language](https://github.com/unbinding-org/aw
 - [Amaravati](http://www.amaravati.org/) - Hertfordshire, England - Place of practice for monks and nuns in the Forest Tradition.
 - [Aruna Ratanagiri](https://ratanagiri.org.uk/) - Northumberland, England - Forest Tradition monastery headed by abbot Ajahn Munindo.
 - [Atammayatarama Buddhist Monastery](http://www.atamma.org/) - Woodinville, Washington - Theravada monastery that offers free services, books, and meditation sessions.
+- [Bodhinyanarama](http://www.bodhinyanarama.net.nz/) - Wellington, New Zealand - Sanctuary in a wooded valley that serves as a monastic residence and public area for Buddhist events.
+- [Cittaviveka](http://www.cittaviveka.org/) - Hampshire, England - Primarily a residence for monks and nuns.
 - [Pacific Hermitage](http://pacifichermitage.org/) - White Salmon, Washington - Small monastery where monks can devote time to study and meditation.
 - [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.
 - [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Ubon Ratchathani, Thailand - Forest monastery established by the venerable Ajahn Chah.
