@@ -65,8 +65,10 @@ Are you looking to [learn the Pali language](https://github.com/unbinding-org/aw
 - [Atammayatarama Buddhist Monastery](http://www.atamma.org/) - Woodinville, Washington - Theravada monastery that offers free services, books, and meditation sessions.
 - [Bodhinyanarama](http://www.bodhinyanarama.net.nz/) - Wellington, New Zealand - Sanctuary in a wooded valley that serves as a monastic residence and public area for Buddhist events.
 - [Cittaviveka](http://www.cittaviveka.org/) - Hampshire, England - Primarily a residence for monks and nuns.
+- [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
 - [Pacific Hermitage](http://pacifichermitage.org/) - White Salmon, Washington - Small monastery where monks can devote time to study and meditation.
 - [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.
+- [The Forest Hermitage](http://foresthermitage.org.uk/) - Warwickshire, England - Headquarters of the Buddhist Prison Chaplaincy Organisation.
 - [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Ubon Ratchathani, Thailand - Forest monastery established by the venerable Ajahn Chah.
 - [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Ubon Ratchathani, Thailand - Where English-speakers can practice the simple lifestyle as taught by the Buddha.
 - [Wat San Fran](http://watsanfran.org/) - San Francisco, California - Temple for learning, celebrating Buddhist holidays, as well as experiencing Thai culture.
