@@ -4,7 +4,7 @@
 
 > A curated list of Theravada Buddhist teachings.
 
-Theravada is a branch of Buddhism that draws its doctrine from the Pali canon, one of the oldest surviving records of the Buddha's teachings.
+[Theravada](https://en.wikipedia.org/wiki/Theravada) is a branch of Buddhism that draws its doctrine from the Pali canon, one of the oldest surviving records of the Buddha's teachings.
 
 Are you looking to [learn the Pali language](https://github.com/unbinding-org/awesome-pali)?
 
