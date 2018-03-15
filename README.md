@@ -64,6 +64,7 @@ Are you looking to [learn the Pali language](https://github.com/unbinding-org/aw
 - [Aruna Ratanagiri](https://ratanagiri.org.uk/) - Northumberland, England - Forest Tradition monastery headed by abbot Ajahn Munindo.
 - [Atammayatarama Buddhist Monastery](http://www.atamma.org/) - Woodinville, Washington - Theravada monastery that offers free services, books, and meditation sessions.
 - [Bodhinyanarama](http://www.bodhinyanarama.net.nz/) - Wellington, New Zealand - Sanctuary in a wooded valley that serves as a monastic residence and public area for Buddhist events.
+- [Buddha Bodhivana](http://buddhabodhivana.org/) - East Warburton, Victoria, Australia - Forest monastery in a small town.
 - [Cittaviveka](http://www.cittaviveka.org/) - Hampshire, England - Primarily a residence for monks and nuns.
 - [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
 - [Pacific Hermitage](http://pacifichermitage.org/) - White Salmon, Washington - Small monastery where monks can devote time to study and meditation.
