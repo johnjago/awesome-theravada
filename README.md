@@ -6,7 +6,7 @@
 
 [Theravada](https://en.wikipedia.org/wiki/Theravada) is a branch of Buddhism that draws its doctrine from the Pali canon, one of the oldest surviving records of the Buddha's teachings.
 
-Are you looking to [learn the Pali language](https://github.com/unbinding-org/awesome-pali)?
+Are you looking for resources on the [Pali language](https://github.com/unbinding-org/awesome-pali)?
 
 ## Contents
 
@@ -17,6 +17,7 @@ Are you looking to [learn the Pali language](https://github.com/unbinding-org/aw
 - [Forums](#forums)
 - [Monasteries](#monasteries)
 - [Organizations](#organizations)
+- [Pali](#pali)
 - [Suttas](#suttas)
 - [Videos](#videos)
 - [License](#license)
@@ -78,6 +79,10 @@ Are you looking to [learn the Pali language](https://github.com/unbinding-org/aw
 
 - [Forest Sangha](https://forestsangha.org/) - Home of the international monasteries in the Thai Forest Tradition of Ajahn Chah.
 - [Sirimangalo International](https://www.sirimangalo.org/) - Teachings on meditation and Buddhism in audio, video, and printed format. It is also a meditation centre located in Hamilton, Ontario.
+
+## Pali
+
+- [Pronunciation](http://www.bps.lk/pali_misc/palipron.html) - Single page guide on the Pali alphabet and its pronunciation.
 
 ## Suttas
 
