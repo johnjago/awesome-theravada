@@ -68,6 +68,7 @@ Are you looking for resources on the [Pali language](https://github.com/unbindin
 - [Buddha Bodhivana](http://buddhabodhivana.org/) - East Warburton, Victoria, Australia - Forest monastery in a small town.
 - [Cittaviveka](http://www.cittaviveka.org/) - Hampshire, England - Primarily a residence for monks and nuns.
 - [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
+- [Hillside Hermitage](http://www.hillsidehermitage.org/) - Small hermitage for monks of the Forest Tradition near the Knuckles mountain range in Sri Lanka.
 - [Pacific Hermitage](http://pacifichermitage.org/) - White Salmon, Washington - Small monastery where monks can devote time to study and meditation.
 - [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.
 - [The Forest Hermitage](http://foresthermitage.org.uk/) - Warwickshire, England - Headquarters of the Buddhist Prison Chaplaincy Organisation.
@@ -125,6 +126,7 @@ Are you looking for resources on the [Pali language](https://github.com/unbindin
 - [Dhamma in English](https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos) - Live talks and Q&A with lay visitors from around the world. (English)
 - [Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UC6FSq_ptJ-I6aTHT-XA_e0Q) - Longer audio talks from Thanissaro Bhikkhu.
 - [Dhammanet](https://www.youtube.com/user/dhammanet/videos) - Inspiring and enlightening discourses by respected scholars, Buddhist monks and philosophers.
+- [Hillside Hermitage](https://www.youtube.com/channel/UCKejmWAt_kNpRMq5gQEGAqw/videos) - Short Q&A dhamma talks by Ajahn Nyanamoli Thero.
 - [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - Talks, lectures, and educational materials from the London Buddhist Vihara.
 - [PhraSuchart Live](https://www.youtube.com/channel/UCHtDbJ3n3aURo0yjyD8kcNA/videos) - Live talks and Q&A with lay visitors from around the world. (Thai - ไทย)
 - [Portland Friends of the Dhamma](https://www.youtube.com/channel/UCHLz6Y2gbO2njffgLsV6FrA) - Buddhist center in the Thai Forest tradition of Ajahn Chah that hosts talks from visiting monastics.
