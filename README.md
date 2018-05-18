@@ -83,6 +83,7 @@ Are you looking for resources on the [Pali language](https://github.com/unbindin
 
 ## Pali
 
+- [Pali Tutor](https://www.arrowriver.ca/pali/paliDrill1.html) - Practice declensions, conjugations, and vocabulary.
 - [Pronunciation](http://www.bps.lk/pali_misc/palipron.html) - Single page guide on the Pali alphabet and its pronunciation.
 
 ## Suttas
