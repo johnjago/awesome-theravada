@@ -28,7 +28,7 @@
 ## Articles
 
 - [Allowing Things to Arise](http://buddhanet.net/4noble19.htm) - How to handle the desire to get rid of negative mind states.
-- [Letting Go](http://buddhanet.net/4noble19.htm) - Letting go through contemplation, explained with concrete examples.
+- [Letting Go](http://buddhanet.net/4noble14.htm) - Letting go through contemplation, explained with concrete examples.
 
 ## Blogs
 
