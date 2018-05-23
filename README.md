@@ -7,6 +7,7 @@
 ## Contents
 
 - [Academic](#academic)
+- [Articles](#articles)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Dhamma Talks](#dhamma-talks)
@@ -23,6 +24,11 @@
 - [A Systematic Study of the Majjhima Nikaya](http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html) - Lectures on the life of the Buddha, ethics, meditation, and wisdom.
 - [An Introduction to Buddhism](http://www.aimwell.org/buddhism.html) - Bhikkhu Pesala provides an overview of the Noble Eightfold Path and several meditation techniques in plain language.
 - [Universität Hamburg: Prof. Bhikkhu Analayo](https://www.buddhismuskunde.uni-hamburg.de/en/personen/analayo.html) - Author of several books and papers on Theravada topics.
+
+## Articles
+
+- [Allowing Things to Arise](http://buddhanet.net/4noble19.htm) - How to handle the desire to get rid of negative mind states.
+- [Letting Go](http://buddhanet.net/4noble19.htm) - Letting go through contemplation, explained with concrete examples.
 
 ## Blogs
 
