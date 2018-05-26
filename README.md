@@ -12,9 +12,9 @@
 - [Books](#books)
 - [Dhamma Talks](#dhamma-talks)
 - [Forums](#forums)
-- [Monasteries](#monasteries)
 - [Organizations](#organizations)
 - [Pali](#pali)
+- [Places](#places)
 - [Suttas](#suttas)
 - [Videos](#videos)
 - [License](#license)
@@ -60,24 +60,6 @@
 - [/r/thaiforest/](https://www.reddit.com/r/thaiforest/) - Subreddit for the Thai Forest Tradition.
 - [/r/theravada/](https://www.reddit.com/r/theravada/) - Subreddit where anyone can discuss, ask questions, and post teachings.
 
-## Monasteries
-
-- [Abhayagiri](https://www.abhayagiri.org) - Redwood Valley, California - Environment in which individuals and families are given the opportunity to be in contact with the principles of the Buddha's teachings.
-- [Amaravati](http://www.amaravati.org/) - Hertfordshire, England - Place of practice for monks and nuns in the Forest Tradition.
-- [Aruna Ratanagiri](https://ratanagiri.org.uk/) - Northumberland, England - Forest Tradition monastery headed by abbot Ajahn Munindo.
-- [Atammayatarama Buddhist Monastery](http://www.atamma.org/) - Woodinville, Washington - Theravada monastery that offers free services, books, and meditation sessions.
-- [Bodhinyanarama](http://www.bodhinyanarama.net.nz/) - Wellington, New Zealand - Sanctuary in a wooded valley that serves as a monastic residence and public area for Buddhist events.
-- [Buddha Bodhivana](http://buddhabodhivana.org/) - East Warburton, Victoria, Australia - Forest monastery in a small town.
-- [Cittaviveka](http://www.cittaviveka.org/) - Hampshire, England - Primarily a residence for monks and nuns.
-- [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
-- [Hillside Hermitage](http://www.hillsidehermitage.org/) - Small hermitage for monks of the Forest Tradition near the Knuckles mountain range in Sri Lanka.
-- [Pacific Hermitage](http://pacifichermitage.org/) - White Salmon, Washington - Small monastery where monks can devote time to study and meditation.
-- [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.
-- [The Forest Hermitage](http://foresthermitage.org.uk/) - Warwickshire, England - Headquarters of the Buddhist Prison Chaplaincy Organisation.
-- [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Ubon Ratchathani, Thailand - Forest monastery established by the venerable Ajahn Chah.
-- [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Ubon Ratchathani, Thailand - Where English-speakers can practice the simple lifestyle as taught by the Buddha.
-- [Wat San Fran](http://watsanfran.org/) - San Francisco, California - Temple for learning, celebrating Buddhist holidays, as well as experiencing Thai culture.
-
 ## Organizations
 
 - [Forest Sangha](https://forestsangha.org/) - Home of the international monasteries in the Thai Forest Tradition of Ajahn Chah.
@@ -93,6 +75,32 @@
 - [Basic Pāli Noun Declension (PDF)](http://palitools.sourceforge.net/docs/BasicPaliNounDeclension.pdf) - Cheatsheet with the various forms that nouns can take. 
 - [Pali Verbal Endings (PDF)](http://palitools.sourceforge.net/docs/PaliVerbalEndings.pdf) - Cheatsheet with verbal endings based on tense.
 - [Morphological analyzer and generator for Pali (PDF)](https://arxiv.org/pdf/1510.01570.pdf) - First step in the direction of the morphological analysis of Pali.
+
+## Places
+
+### Monasteries
+
+- [Abhayagiri](https://www.abhayagiri.org) - Redwood Valley, California - Environment in which individuals and families are given the opportunity to be in contact with the principles of the Buddha's teachings.
+- [Amaravati](http://www.amaravati.org/) - Hertfordshire, England - Place of practice for monks and nuns in the Forest Tradition.
+- [Aruna Ratanagiri](https://ratanagiri.org.uk/) - Northumberland, England - Forest Tradition monastery headed by abbot Ajahn Munindo.
+- [Atammayatarama Buddhist Monastery](http://www.atamma.org/) - Woodinville, Washington - Theravada monastery that offers free services, books, and meditation sessions.
+- [Bodhinyanarama](http://www.bodhinyanarama.net.nz/) - Wellington, New Zealand - Sanctuary in a wooded valley that serves as a monastic residence and public area for Buddhist events.
+- [Buddha Bodhivana](http://buddhabodhivana.org/) - East Warburton, Victoria, Australia - Forest monastery in a small town.
+- [Cittaviveka](http://www.cittaviveka.org/) - Hampshire, England - Primarily a residence for monks and nuns.
+- [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
+- [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.
+- [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Ubon Ratchathani, Thailand - Forest monastery established by the venerable Ajahn Chah.
+- [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Ubon Ratchathani, Thailand - Where English-speakers can practice the simple lifestyle as taught by the Buddha.
+
+### Temples
+
+- [Wat San Fran](http://watsanfran.org/) - San Francisco, California - Temple for learning, celebrating Buddhist holidays, as well as experiencing Thai culture.
+
+### Hermitages
+
+- [Hillside Hermitage](http://www.hillsidehermitage.org/) - Small hermitage for monks of the Forest Tradition near the Knuckles mountain range in Sri Lanka.
+- [Pacific Hermitage](http://pacifichermitage.org/) - White Salmon, Washington - Small monastery where monks can devote time to study and meditation.
+- [The Forest Hermitage](http://foresthermitage.org.uk/) - Warwickshire, England - Headquarters of the Buddhist Prison Chaplaincy Organisation.
 
 ## Suttas
 
