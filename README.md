@@ -33,7 +33,9 @@
 ## Blogs
 
 - [Bosque Theravada](https://www.bosquetheravada.org/) - Web budista dedicada al Canon Pali, el budismo temprano, y la Tradición de Ajahn Chah.
+- [Cattāri Brahmavihārā](https://cattaribrahmavihara.com/) - Father of three in NYC who maintains a daily practice.
 - [Dhamma Musings](https://sdhammika.blogspot.com/) - Shravasti Dhammika's musings and travels.
+- [Dhamma Reflections](https://dhammareflections.wordpress.com/) - Lay disciple's insights in practicing the early Buddhist teachings.
 - [Sujato’s Blog](https://sujato.wordpress.com/) - Opinions on Buddhism and related issues in a contemporary context.
 - [Reflections: Ajahn Sucitto](https://sucitto.blogspot.com/) - Personal blog of an experienced Buddhist monk.
 
