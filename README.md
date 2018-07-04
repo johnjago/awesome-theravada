@@ -131,6 +131,8 @@
 
 ### Individual Videos
 
+- [Ask A Monk: Divorce](https://www.youtube.com/watch?v=Uq4ibpX-nS0) - Discussion of divorce that leads back to the fundamentals of Buddhism.
+- [Ask A Monk: Life Partners](https://www.youtube.com/watch?v=MHu46KZVchY) - Suffering does not come from not getting what you want, but from the wanting itself.
 - [Dana en Wat Pah Nanachat](https://www.youtube.com/watch?v=Y1bTUC7QUbI) - A walk through of daily life at Wat Pah Nanachat, focusing on the topic of generosity and the role it plays in Buddhist life. (Español with English subtitles)
 - [The Mindful Way](https://www.youtube.com/watch?v=Anf1yhX9VQo) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
 
