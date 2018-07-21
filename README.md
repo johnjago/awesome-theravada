@@ -28,6 +28,7 @@
 ## Articles
 
 - [Allowing Things to Arise](http://buddhanet.net/4noble19.htm) - How to handle the desire to get rid of negative mind states.
+- [Grasping and Clining](http://www.buddhanet.net/budasa7.htm) - The four different kinds of attachment and how to eliminate the causes of those attachments.
 - [Letting Go](http://buddhanet.net/4noble14.htm) - Letting go through contemplation, explained with concrete examples.
 
 ## Blogs
