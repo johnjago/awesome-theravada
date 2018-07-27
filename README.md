@@ -112,6 +112,7 @@
 
 ### Individual Suttas
 
+- [Aputtaka Sutta: Heirless](https://www.accesstoinsight.org/tipitaka/sn/sn03/sn03.019.than.html) - The Buddha criticizes those who hoard wealth without enjoying it or giving it to others.
 - [Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion](http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) - The Buddha's first discourse.
 - [Samaññaphala Sutta: The Fruits of the Contemplative Life](http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html) - Comprehensive portrait of the Buddhist path of training, illustrating each stage of the training with vivid similes.
 - [Kasi Bharadvaja Sutta: To the Plowing Bharadvaja](http://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.011.than.html) - The Buddha explains how he plows, sows, and eats like a farmer.
