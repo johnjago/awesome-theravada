@@ -2,7 +2,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg" alt="Dharmachakra" align="right" width="170">](https://en.wikipedia.org/wiki/Theravada)
 
-[Theravada](https://en.wikipedia.org/wiki/Theravada) is a branch of Buddhism that draws its doctrine from the Pali canon, one of the oldest surviving records of the Buddha's teachings.
+[Theravada](https://en.wikipedia.org/wiki/Theravada) is a branch of Buddhism that draws its doctrine from the Pāli Canon, one of the oldest surviving records of the Buddha's teachings.
 
 ## Contents
 
