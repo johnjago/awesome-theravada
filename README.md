@@ -123,6 +123,7 @@
 ### Resources
 
 - [Access to Insight](http://www.accesstoinsight.org/) - Translations of over one thousand suttas from the Pali Canon.
+- [Apadāna (Legends of the Buddhist Saints)](http://apadanatranslation.org/) - Complete translation of six hundred autobiographical poems ascribed to the accomplished Buddhas and Arahants of the early Buddhist community.
 - [dhammadāna](http://dhammadana.org/) - Learn about the Buddha's original teachings in French, English, Italian, Burmese, and Japanese.
 - [Dhammapada](http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html) - Short verses that summarize the essential principles of the Buddha's teachings.
 - [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - Read and compare multiple versions of the Dhammapada side-by-side.
