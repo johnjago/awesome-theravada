@@ -62,8 +62,6 @@
 - [Discuss & Discover](https://discourse.suttacentral.net/) - Forums for SuttaCentral early Buddhist texts.
 - [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
 - [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - Ask and learn from the members of Dhammaloka City Centre in Australia.
-- [/r/thaiforest/](https://www.reddit.com/r/thaiforest/) - Subreddit for the Thai Forest Tradition.
-- [/r/theravada/](https://www.reddit.com/r/theravada/) - Subreddit where anyone can discuss, ask questions, and post teachings.
 
 ## Organizations
 
