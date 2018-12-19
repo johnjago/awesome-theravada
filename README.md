@@ -38,6 +38,7 @@
 - [Cattāri Brahmavihārā](https://cattaribrahmavihara.com/) - Father of three in NYC who maintains a daily practice.
 - [Dhamma Musings](https://sdhammika.blogspot.com/) - Shravasti Dhammika's musings and travels.
 - [Dhamma Reflections](https://dhammareflections.wordpress.com/) - Lay disciple's insights in practicing the early Buddhist teachings.
+- [In the Words of Buddha](https://inthewordsofbuddha.wordpress.com/) - Making the authentic teachings of the Buddha accessible to the modern world through textual analysis.
 - [Sujato’s Blog](https://sujato.wordpress.com/) - Opinions on Buddhism and related issues in a contemporary context.
 - [Reflections: Ajahn Sucitto](https://sucitto.blogspot.com/) - Personal blog of an experienced Buddhist monk.
 
