@@ -21,7 +21,7 @@
 - [License](#license)
 
 ## Academic
-
+- [Tipitaka](https://www.accesstoinsight.org/tipitaka/index.html) - The Tipitaka, or Pali canon, is the collection of primary Pali language texts which form the doctrinal foundation of Theravada Buddhism. 
 - [A Systematic Study of the Majjhima Nikaya](http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html) - Lectures on the life of the Buddha, ethics, meditation, and wisdom.
 - [An Introduction to Buddhism](http://www.aimwell.org/buddhism.html) - Bhikkhu Pesala provides an overview of the Noble Eightfold Path and several meditation techniques in plain language.
 - [Universität Hamburg: Prof. Bhikkhu Analayo](https://www.buddhismuskunde.uni-hamburg.de/en/personen/analayo.html) - Author of several books and papers on Theravada topics.
