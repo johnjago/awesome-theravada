@@ -66,7 +66,7 @@
 
 - [Discuss & Discover](https://discourse.suttacentral.net/) - Forums for SuttaCentral early Buddhist texts.
 - [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
-- [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - Ask and learn from the members of Dhammaloka City Centre in Australia.
+- [Dhammaloka Community](https://bswa.org/about-dhammaloka-community/) - Ask and learn from the members of Dhammaloka City Centre in Australia.
 
 ## Organizations
 
@@ -156,7 +156,7 @@
 - [Ask A Monk: Divorce](https://www.youtube.com/watch?v=Uq4ibpX-nS0) - Discussion of divorce that leads back to the fundamentals of Buddhism.
 - [Ask A Monk: Life Partners](https://www.youtube.com/watch?v=MHu46KZVchY) - Suffering does not come from not getting what you want, but from the wanting itself.
 - [Dana en Wat Pah Nanachat](https://www.youtube.com/watch?v=Y1bTUC7QUbI) - A walk through of daily life at Wat Pah Nanachat, focusing on the topic of generosity and the role it plays in Buddhist life. (Español with English subtitles)
-- [The Mindful Way](https://www.youtube.com/watch?v=Anf1yhX9VQo) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
+- [The Mindful Way](https://viewtube.io/watch?v=eFy-a9VaVvE) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
 
 ### YouTube Channels
 
