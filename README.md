@@ -21,11 +21,12 @@
 - [License](#license)
 
 ## Academic
-- [Tipitaka](https://www.accesstoinsight.org/tipitaka/index.html) - The Tipitaka, or Pali canon, is the collection of primary Pali language texts which form the doctrinal foundation of Theravada Buddhism. 
+- [Tipitaka](https://www.accesstoinsight.org/tipitaka/index.html) - The Tipitaka, or Pali canon, is the collection of primary Pali language texts which form the doctrinal foundation of Theravada Buddhism.
 - [Early Buddhist texts, translations, and parallels](https://suttacentral.net/) - The Tipitaka; translated by [Bhante Sujato](https://en.wikipedia.org/wiki/Bhante_Sujato) along with related translations.
 - [A Systematic Study of the Majjhima Nikaya](http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html) - Lectures on the life of the Buddha, ethics, meditation, and wisdom.
 - [An Introduction to Buddhism](http://www.aimwell.org/buddhism.html) - Bhikkhu Pesala provides an overview of the Noble Eightfold Path and several meditation techniques in plain language.
 - [Universität Hamburg: Prof. Bhikkhu Analayo](https://www.buddhismuskunde.uni-hamburg.de/en/personen/analayo.html) - Author of several books and papers on Theravada topics.
+- [foxue.ai](https://www.foxue.ai) - Open-source multilingual Buddhist text research platform with traceable, paragraph-level citations across Pali, Chinese, Sanskrit, and Tibetan texts.
 
 ## Articles
 
