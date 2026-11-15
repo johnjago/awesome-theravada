@@ -30,6 +30,7 @@
 ## Articles
 
 - [Allowing Things to Arise](http://buddhanet.net/4noble19.htm) - How to handle the desire to get rid of negative mind states.
+- [Being Mindful Stories](https://beingmindfulstories.com/) - Free library of 1,224 short stories told by Ajahn Brahm, matched to life situations such as grief and anxiety, each linked to the source talk with timestamps.
 - [Grasping and Clining](http://www.buddhanet.net/budasa7.htm) - The four different kinds of attachment and how to eliminate the causes of those attachments.
 - [Letting Go](http://buddhanet.net/4noble14.htm) - Letting go through contemplation, explained with concrete examples.
 - [ThoughtCo](https://www.thoughtco.com/buddhism-4133165) - Clear and well-written series on Buddhism by Barbara O'Brien, with many references to the Pāli Canon.
